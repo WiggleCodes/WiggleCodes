@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/WiggleCodes">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%3E+whoami;Senior+IT+Engineer+%26+Developer+%F0%9F%9B%A0%EF%B8%8F;Mentoring+the+next+1st+Line+Engineer+%F0%9F%8E%93;Windows+Server+%E2%80%A2+Networking+%E2%80%A2+Automation;Building+my+own+local+AI+from+scratch+%E2%9A%A1;Running+10+AI+bots+in+Minecraft+%F0%9F%A4%96;Fixing+broken+Minecraft+mods+for+fun+%F0%9F%A7%A9;If+it+runs+in+a+container%2C+I+self-host+it+%F0%9F%90%B3" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00f7ff&labelColor=0f0c29&label=VISITORS" />
+  <img src="https://komarev.com/ghpvc/?username=WiggleCodes&style=for-the-badge&color=00f7ff&labelColor=0f0c29&label=VISITORS" />
   <img src="https://img.shields.io/badge/ROLE-Senior%20IT%20Engineer-302b63?style=for-the-badge&labelColor=0f0c29" />
   <img src="https://img.shields.io/badge/BASED-UK%20🇬🇧-302b63?style=for-the-badge&labelColor=0f0c29" />
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9d?style=for-the-badge&labelColor=0f0c29" />
@@ -141,29 +141,29 @@ flowchart LR
 ## `> top --user wiggly`
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00f7ff&icon_color=00ff9d&text_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0f0c29&title_color=00f7ff&text_color=ffffff&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=WiggleCodes&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00f7ff&icon_color=00ff9d&text_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiggleCodes&layout=compact&hide_border=true&bg_color=0f0c29&title_color=00f7ff&text_color=ffffff&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0f0c29&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+  <img src="https://streak-stats.demolab.com?user=WiggleCodes&hide_border=true&background=0f0c29&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=WiggleCodes&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0f0c29&color=00f7ff&line=00ff9d&point=ffffff&area=true&area_color=302b63&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WiggleCodes&bg_color=0f0c29&color=00f7ff&line=00ff9d&point=ffffff&area=true&area_color=302b63&hide_border=true" />
 </p>
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
-    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WiggleCodes/WiggleCodes/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WiggleCodes/WiggleCodes/output/snake.svg" />
+    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/WiggleCodes/WiggleCodes/output/snake-dark.svg" />
   </picture>
 </p>
 
