@@ -149,14 +149,6 @@ flowchart LR
   <img src="https://streak-stats.demolab.com?user=WiggleCodes&hide_border=true&background=0f0c29&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WiggleCodes&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WiggleCodes&bg_color=0f0c29&color=00f7ff&line=00ff9d&point=ffffff&area=true&area_color=302b63&hide_border=true" />
-</p>
-
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 
 <p align="center">
