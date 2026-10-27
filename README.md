@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Reece&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Infrastructure%20%E2%80%A2%20Homelab%20%E2%80%A2%20Local%20AI&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Wiggly&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Infrastructure%20%E2%80%A2%20Homelab%20%E2%80%A2%20Local%20AI&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ### 🧑‍💻 About me
 
 ```yaml
-name:      Reece
+name:      Wiggly
 location:  UK 🇬🇧
 day_job:   IT Support — 1st & 2nd line, Windows Server, licensing & activation
 currently: training up our newest 1st line hire
