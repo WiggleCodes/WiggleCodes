@@ -35,7 +35,7 @@
     "Networking, firewalls & infrastructure",
     "Training & mentoring a 1st Line IT Support Engineer 🎓"
   ],
-  "currently_building": ["Forge (local AI)", "Minecraft AI Village"],
+  "currently_building": ["Minecraft AI Village"],
   "side_quests":  ["Fixing code for projects I love", "Patching broken Minecraft mods 🧩"],
   "open_to":      "lending a helping hand — just ask",
   "homelab":      "always growing, never finished",
@@ -50,17 +50,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### ⚒️ Forge
-<img src="https://img.shields.io/badge/-IN%20DEVELOPMENT-ff6b6b?style=flat-square" />
-
-My own **local AI desktop app** for Windows. Loads open-weight models, fine-tunes them on my own data, runs entirely on my GPU. Zero subscriptions, zero cloud.
-
-<sub>`Python` · `PyTorch` · `CUDA` · `Fine-tuning` · `Desktop UI`</sub>
-
-</td>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🏘️ Minecraft AI Village
 <img src="https://img.shields.io/badge/-LIVE%20EXPERIMENT-00ff9d?style=flat-square" />
@@ -68,28 +58,6 @@ My own **local AI desktop app** for Windows. Loads open-weight models, fine-tune
 **10 autonomous AI players** living, building and arguing on a Java server. Controllable through MCP, with a neon **brain dashboard** to watch their thoughts overnight.
 
 <sub>`Minecraft Java` · `MCP` · `Node.js` · `LLMs` · `Agents`</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Spare Room
-<img src="https://img.shields.io/badge/-IN%20PRODUCTION-00f7ff?style=flat-square" />
-
-A **private cloud storage service** I run myself on a QNAP NAS, offering storage plans to friends and family.
-
-<sub>`QNAP` · `Storage` · `Self-hosted` · `Access control`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 📦 Parcels
-<img src="https://img.shields.io/badge/-IN%20PRODUCTION-00f7ff?style=flat-square" />
-
-A self-hosted **parcel & proof-of-delivery tracker** for my eBay selling, containerised on the NAS.
-
-<sub>`Docker` · `Container Station` · `Web app`</sub>
 
 </td>
 </tr>
@@ -138,19 +106,15 @@ flowchart LR
 
     NAS --> PT[🎮 Pterodactyl + Wings]
     NAS --> LC[🎯 LanCache · Steam]
-    NAS --> SR[☁️ Spare Room]
-    NAS --> PA[📦 Parcels]
     NAS --> MCP[🤖 MCP Agent]
     HP -. backups .-> NAS
 
-    PC --> FORGE[⚒️ Forge]
     PC --> MC[🏘️ Minecraft AI Village]
-    FORGE -. powers .-> MC
 
     classDef core fill:#302b63,stroke:#00f7ff,color:#fff;
     classDef svc fill:#0f0c29,stroke:#00ff9d,color:#fff;
     class UDM,HP,NAS,PC core;
-    class PT,LC,SR,PA,MCP,FORGE,MC svc;
+    class PT,LC,MCP,MC svc;
 ```
 
 <!-- ═══════════════════════ TECH ═══════════════════════ -->
