@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/WiggleCodes">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%3E+whoami;Senior+IT+Engineer+%26+Developer+%F0%9F%9B%A0%EF%B8%8F;Mentoring+the+next+1st+Line+Engineer+%F0%9F%8E%93;Windows+Server+%E2%80%A2+Networking+%E2%80%A2+Automation;Building+my+own+local+AI+from+scratch+%E2%9A%A1;Running+10+AI+bots+in+Minecraft+%F0%9F%A4%96;Fixing+broken+Minecraft+mods+for+fun+%F0%9F%A7%A9;If+it+runs+in+a+container%2C+I+self-host+it+%F0%9F%90%B3" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%3E+whoami;Senior+IT+Engineer+%26+Developer+%F0%9F%9B%A0%EF%B8%8F;Mentoring+the+next+1st+Line+Engineer+%F0%9F%8E%93;Windows+Server+%E2%80%A2+Networking+%E2%80%A2+Automation;Building+my+own+local+AI+from+scratch+%E2%9A%A1;Shipped%3A+10+AI+villagers+in+Minecraft+%E2%9C%85;Fixing+broken+Minecraft+mods+for+fun+%F0%9F%A7%A9;If+it+runs+in+a+container%2C+I+self-host+it+%F0%9F%90%B3" alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
     "Networking, firewalls & infrastructure",
     "Training & mentoring a 1st Line IT Support Engineer 🎓"
   ],
-  "currently_building": ["Minecraft AI Village"],
+  "shipped":      ["Minecraft AI Village ✅"],
   "side_quests":  ["Fixing code for projects I love", "Patching broken Minecraft mods 🧩"],
   "open_to":      "lending a helping hand — just ask",
   "homelab":      "always growing, never finished",
@@ -53,9 +53,9 @@
 <td width="100%" valign="top">
 
 ### 🏘️ Minecraft AI Village
-<img src="https://img.shields.io/badge/-LIVE%20EXPERIMENT-00ff9d?style=flat-square" />
+<img src="https://img.shields.io/badge/STATUS-COMPLETE%20%E2%9C%93-00ff9d?style=flat-square&labelColor=0f0c29" />
 
-**10 autonomous AI players** living, building and arguing on a Java server. Controllable through MCP, with a neon **brain dashboard** to watch their thoughts overnight.
+**✅ Project complete!** 10 autonomous AI players living, building and arguing on a Java server. Controllable through MCP, with a neon **brain dashboard** to watch their thoughts overnight.
 
 <sub>`Minecraft Java` · `MCP` · `Node.js` · `LLMs` · `Agents`</sub>
 
