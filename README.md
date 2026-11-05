@@ -53,7 +53,7 @@
 <td width="100%" valign="top">
 
 ### 🏘️ Minecraft AI Village
-<img src="https://img.shields.io/badge/STATUS-COMPLETE%20%E2%9C%93-00ff9d?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/-COMPLETE-00ff9d?style=flat-square" />
 
 **✅ Project complete!** 10 autonomous AI players living, building and arguing on a Java server. Controllable through MCP, with a neon **brain dashboard** to watch their thoughts overnight.
 
