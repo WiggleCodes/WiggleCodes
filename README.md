@@ -1,6 +1,6 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=WIGGLY&fontSize=90&fontColor=00f7ff&animation=twinkling&fontAlignY=40&desc=Senior%20IT%20Engineer%20%E2%80%A2%20Developer%20%E2%80%A2%20Homelab%20Gremlin&descAlignY=65&descSize=20&stroke=00f7ff&strokeWidth=1" />
+  <img src="assets/header.svg" alt="Wiggly — Senior IT Engineer, Developer, Homelab Gremlin" width="100%" />
 </p>
 
 <p align="center">
