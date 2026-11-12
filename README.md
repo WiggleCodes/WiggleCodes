@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/WiggleCodes">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%3E+whoami;Senior+IT+Engineer+%26+Developer+%F0%9F%9B%A0%EF%B8%8F;Mentoring+the+next+1st+Line+Engineer+%F0%9F%8E%93;Windows+Server+%E2%80%A2+Networking+%E2%80%A2+Automation;Building+my+own+local+AI+from+scratch+%E2%9A%A1;Shipped%3A+10+AI+villagers+in+Minecraft+%E2%9C%85;Fixing+broken+Minecraft+mods+for+fun+%F0%9F%A7%A9;If+it+runs+in+a+container%2C+I+self-host+it+%F0%9F%90%B3" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%3E+whoami;Senior+IT+Engineer+%26+Developer+%F0%9F%9B%A0%EF%B8%8F;Mentoring+the+next+1st+Line+Engineer+%F0%9F%8E%93;Building+Villager+Kingdoms+%E2%9A%94%EF%B8%8F;Making+desktop+pets+with+Bitty+Buddies+%F0%9F%90%BE;Proxmox+%E2%80%A2+Windows+Server+%E2%80%A2+Entra+ID;Shipped%3A+10+AI+villagers+in+Minecraft+%E2%9C%85;Fixing+broken+Minecraft+mods+for+fun+%F0%9F%A7%A9" alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,7 +35,9 @@
     "Networking, firewalls & infrastructure",
     "Training & mentoring a 1st Line IT Support Engineer 🎓"
   ],
-  "shipped":      ["Minecraft AI Village ✅"],
+  "working_on":   ["Villager Kingdoms ⚔️", "Bitty Buddies 🐾"],
+  "shipped":      ["Minecraft AI Village ✅", "Critters & Companions 26.3 port 🦦"],
+  "org":          "NotABug-ItsAFeature 🐛",
   "side_quests":  ["Fixing code for projects I love", "Patching broken Minecraft mods 🧩"],
   "open_to":      "lending a helping hand — just ask",
   "homelab":      "always growing, never finished",
@@ -50,18 +52,60 @@
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
+
+### ⚔️ [Villager Kingdoms](https://github.com/WiggleCodes/villager-kingdoms)
+<img src="https://img.shields.io/badge/-IN%20DEVELOPMENT-ff6b6b?style=flat-square" />
+
+A Minecraft mod where **you rule the village**. Command villager armies RTS-style, possess your soldiers, manage squads, and go to war with rival AI kingdoms, other players and pillagers. Updates itself in-game and ships to Modrinth.
+
+<sub>`NeoForge 1.21.1` · `Java` · `RTS` · `Modrinth`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🐾 Bitty Buddies
+<img src="https://img.shields.io/badge/-IN%20DEVELOPMENT-ff6b6b?style=flat-square" />
+
+**Minecraft-style desktop pets** for Windows and Mac. Pick a pet from the menu and it wanders around your screen. Auto-updates from GitHub. Coming soon: Lord of the Rings pets and building your own shrine.
+
+<sub>`Windows` · `macOS` · `Desktop app` · `Auto-updates`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🦦 [Critters & Companions 26.3](https://github.com/WiggleCodes/CrittersAndCompanions)
+<img src="https://img.shields.io/badge/-PORTED-00f7ff?style=flat-square" />
+
+My unofficial port of Bonsai Studios' creature mod to **Minecraft 26.3** on Fabric and NeoForge, with a pile of crash and bug fixes from the original issue tracker. All credit to the original devs.
+
+<sub>`Fabric` · `NeoForge` · `GeckoLib` · `Java`</sub>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏘️ Minecraft AI Village
 <img src="https://img.shields.io/badge/-COMPLETE-00ff9d?style=flat-square" />
 
-**✅ Project complete!** 10 autonomous AI players living, building and arguing on a Java server. Controllable through MCP, with a neon **brain dashboard** to watch their thoughts overnight.
+**10 autonomous AI players** living, building and arguing on a Java server. Controllable through MCP, with a neon **brain dashboard** to watch their thoughts overnight.
 
 <sub>`Minecraft Java` · `MCP` · `Node.js` · `LLMs` · `Agents`</sub>
 
 </td>
 </tr>
 </table>
+
+<!-- ═══════════════════════ ORG ═══════════════════════ -->
+
+## `> whoami --groups`
+
+<p align="center">
+  <a href="https://github.com/NotABug-ItsAFeature"><img src="https://img.shields.io/badge/🐛%20NotABug--ItsAFeature-co--founder-302b63?style=for-the-badge&labelColor=0f0c29" /></a>
+</p>
+
+<p align="center">A GitHub organisation I started with two fellow IT engineers. <i>It's not a bug — it's a feature.</i></p>
 
 <!-- ═══════════════════════ HELPING HAND ═══════════════════════ -->
 
@@ -99,13 +143,19 @@ My favourite thing of all? **Fixing Minecraft mods.** Crashes on launch, broken 
 
 ```mermaid
 flowchart LR
-    NET((🌐 Internet)) --> UDM[🛡️ UniFi Dream Machine<br/><sub>firewall · VLANs · routing</sub>]
+    NET((🌐 Internet)) --> UDM[🛡️ UniFi Dream Machine<br/><sub>firewall · VLANs · DNS</sub>]
+    UDM --> PVE[🧱 Proxmox Cluster<br/><sub>pve · Wanix2</sub>]
     UDM --> HP[🖥️ HP Server<br/><sub>compute</sub>]
     UDM --> NAS[💾 QNAP NAS<br/><sub>storage · containers</sub>]
-    UDM --> PC[🎮 GPU Workstation<br/><sub>local AI</sub>]
+    UDM --> PC[🎮 GPU Workstation<br/><sub>dev · local AI</sub>]
+
+    PVE --> SHIRE[🏡 TheShire<br/><sub>Windows Server 2025</sub>]
+    PVE --> PB[🔐 Passbolt · Mailpit]
+    SHIRE -. joined .-> ENTRA[☁️ Microsoft Entra ID]
 
     NAS --> PT[🎮 Pterodactyl + Wings]
     NAS --> LC[🎯 LanCache · Steam]
+    NAS --> ZM[🎫 Zammad Helpdesk]
     NAS --> MCP[🤖 MCP Agent]
     HP -. backups .-> NAS
 
@@ -113,8 +163,8 @@ flowchart LR
 
     classDef core fill:#302b63,stroke:#00f7ff,color:#fff;
     classDef svc fill:#0f0c29,stroke:#00ff9d,color:#fff;
-    class UDM,HP,NAS,PC core;
-    class PT,LC,MCP,MC svc;
+    class UDM,PVE,HP,NAS,PC core;
+    class SHIRE,PB,ENTRA,PT,LC,ZM,MCP,MC svc;
 ```
 
 <!-- ═══════════════════════ TECH ═══════════════════════ -->
@@ -122,18 +172,22 @@ flowchart LR
 ## `> echo $STACK`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,python,nodejs,js,powershell,bash,git,github,vscode,pytorch,cloudflare&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,java,gradle,python,nodejs,js,powershell,bash,git,github,vscode&theme=dark&perline=7" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
   <img src="https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" />
   <img src="https://img.shields.io/badge/QNAP-1E3A8A?style=for-the-badge&logo=files&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/NeoForge-D7742F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Modrinth-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white" />
 </p>
 
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
@@ -177,6 +231,8 @@ Training up a **1st Line IT Support Engineer** — triage, ticket hygiene, AD & 
 - 🤖 Has 10 AI villagers who probably gossip about him
 - 🧩 Will fix your Minecraft mod before you've finished describing the crash
 - 💾 Treats "the NAS" as a member of the household
+- 🏡 Named his Windows Server **TheShire**, because every homelab needs a hobbit hole
+- 🎫 Runs a full helpdesk at home, so even the house has tickets
 - 🔥 Breaks things on purpose at home so they don't break at work
 
 </details>
