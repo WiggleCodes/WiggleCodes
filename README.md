@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/WiggleCodes">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%3E+whoami;Senior+IT+Engineer+%26+Developer+%F0%9F%9B%A0%EF%B8%8F;Mentoring+the+next+1st+Line+Engineer+%F0%9F%8E%93;Building+Villager+Kingdoms+%E2%9A%94%EF%B8%8F;Making+desktop+pets+with+Bitty+Buddies+%F0%9F%90%BE;Proxmox+%E2%80%A2+Windows+Server+%E2%80%A2+Entra+ID;Shipped%3A+10+AI+villagers+in+Minecraft+%E2%9C%85;Fixing+broken+Minecraft+mods+for+fun+%F0%9F%A7%A9" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%3E+whoami;Senior+IT+Engineer+%26+Developer+%F0%9F%9B%A0%EF%B8%8F;Mentoring+the+next+1st+Line+Engineer+%F0%9F%8E%93;Making+desktop+pets+with+Bitty+Buddies+%F0%9F%90%BE;Proxmox+%E2%80%A2+Windows+Server+%E2%80%A2+Entra+ID;Shipped%3A+10+AI+villagers+in+Minecraft+%E2%9C%85;Fixing+broken+Minecraft+mods+for+fun+%F0%9F%A7%A9" alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
     "Networking, firewalls & infrastructure",
     "Training & mentoring a 1st Line IT Support Engineer 🎓"
   ],
-  "working_on":   ["Villager Kingdoms ⚔️", "Bitty Buddies 🐾"],
+  "working_on":   ["Bitty Buddies 🐾"],
   "shipped":      ["Minecraft AI Village ✅", "Critters & Companions 26.3 port 🦦"],
   "org":          "NotABug-ItsAFeature 🐛",
   "side_quests":  ["Fixing code for projects I love", "Patching broken Minecraft mods 🧩"],
@@ -54,26 +54,14 @@
 <tr>
 <td width="50%" valign="top">
 
-### ⚔️ [Villager Kingdoms](https://github.com/WiggleCodes/villager-kingdoms)
-<img src="https://img.shields.io/badge/-IN%20DEVELOPMENT-ff6b6b?style=flat-square" />
-
-A Minecraft mod where **you rule the village**. Command villager armies RTS-style, possess your soldiers, manage squads, and go to war with rival AI kingdoms, other players and pillagers. Updates itself in-game and ships to Modrinth.
-
-<sub>`NeoForge 1.21.1` · `Java` · `RTS` · `Modrinth`</sub>
-
-</td>
-<td width="50%" valign="top">
-
 ### 🐾 Bitty Buddies
 <img src="https://img.shields.io/badge/-IN%20DEVELOPMENT-ff6b6b?style=flat-square" />
 
-**Minecraft-style desktop pets** for Windows and Mac. Pick a pet from the menu and it wanders around your screen. Auto-updates from GitHub. Coming soon: Lord of the Rings pets and building your own shrine.
+**Minecraft-style desktop pets** for Windows. Pick a pet from the menu and it wanders around your screen. Auto-updates from GitHub. Coming soon: Lord of the Rings pets and building your own shrine.
 
-<sub>`Windows` · `macOS` · `Desktop app` · `Auto-updates`</sub>
+<sub>`Windows` · `Desktop app` · `Auto-updates`</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🦦 [Critters & Companions 26.3](https://github.com/WiggleCodes/CrittersAndCompanions)
@@ -84,7 +72,9 @@ My unofficial port of Bonsai Studios' creature mod to **Minecraft 26.3** on Fabr
 <sub>`Fabric` · `NeoForge` · `GeckoLib` · `Java`</sub>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" width="100%" valign="top">
 
 ### 🏘️ Minecraft AI Village
 <img src="https://img.shields.io/badge/-COMPLETE-00ff9d?style=flat-square" />
@@ -187,7 +177,6 @@ flowchart LR
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
   <img src="https://img.shields.io/badge/NeoForge-D7742F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Modrinth-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white" />
 </p>
 
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
